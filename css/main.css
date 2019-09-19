@@ -1,0 +1,38 @@
+:root {
+  --lightred: #904945;
+}
+
+.text-main {
+  color: var(--lightred);
+}
+
+.text-secondary {
+  color: grey;
+}
+
+a,
+a:hover {
+  color: inherit;
+}
+
+.container-fluid-max {
+  max-width: 1440px;
+}
+
+.navbar-brand img {
+  width: 30px;
+  height: 30px;
+}
+
+body {
+  height: 100vh;
+  width: 100wh;
+}
+
+.page-header {
+  height: 7%;
+}
+
+.main {
+  height: 93%;
+}
